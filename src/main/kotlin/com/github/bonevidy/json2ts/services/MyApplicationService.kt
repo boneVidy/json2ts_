@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bonevidy.json2ts.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bonevidy.json2ts.MyBundle
 
 class MyApplicationService {
 
